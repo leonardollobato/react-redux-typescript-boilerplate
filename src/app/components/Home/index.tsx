@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { TrainingModel } from 'app/models'
 import { TrainingActions } from 'app/actions'
-import { TrainingItem } from '../TrainingItem'
+//import { TrainingItem } from '../TrainingItem'
 
 import * as style from './style.css'
 
@@ -15,20 +15,20 @@ export namespace Home {
 }
 
 export class Home extends React.Component<Home.Props> {
+  fetchTraining() {}
+
   render() {
-    const { trainings, actions } = this.props
+    //const { trainings, actions } = this.props
     return (
-      <section className={style.main}>
-        <ul className={style.normal}>
-          {trainings.map((training) => (
-            <TrainingItem
-              key={training.id}
-              training={training}
-              toggleFavorite={actions.toggleFavoriteTraining}
-            />
-          ))}
-        </ul>
-      </section>
+      <div>
+        <h1>Hello</h1>
+        <section className={style.main}>
+          <h1>Home</h1>
+          <ul className={style.normal}>
+            <li>teste</li>
+          </ul>
+        </section>
+      </div>
     )
   }
 }

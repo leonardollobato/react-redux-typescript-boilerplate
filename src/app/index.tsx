@@ -1,6 +1,7 @@
 import * as React from 'react'
 import { Route, Link } from 'react-router-dom'
 import { hot } from 'react-hot-loader'
+import { Home } from './components'
 
 export const App = hot(module)(() => (
   <div>
@@ -10,10 +11,6 @@ export const App = hot(module)(() => (
     <Route path="/topics" component={Topics} />
   </div>
 ))
-
-function Home() {
-  return <h2>Home</h2>
-}
 
 function About() {
   return <h2>About</h2>
