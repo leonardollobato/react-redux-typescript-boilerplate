@@ -344,6 +344,13 @@
   resolved "https://devops.bt.siemens.com/artifactory/api/npm/npm-all/@types/redux-actions/-/redux-actions-2.3.1.tgz#b574569d76df9a0963c421bf509bcf2d0c6b17d3"
   integrity sha1-tXRWnXbfmgljxCG/UJvPLQxrF9M=
 
+"@types/redux-thunk@^2.1.0":
+  version "2.1.0"
+  resolved "https://devops.bt.siemens.com/artifactory/api/npm/npm-all/@types/redux-thunk/-/redux-thunk-2.1.0.tgz#bc2b6e972961831afb82a9bf4f06726e351f9416"
+  integrity sha1-vCtulylhgxr7gqm/TwZybjUflBY=
+  dependencies:
+    redux-thunk "*"
+
 "@types/tapable@*":
   version "1.0.4"
   resolved "https://devops.bt.siemens.com/artifactory/api/npm/npm-all/@types/tapable/-/tapable-1.0.4.tgz#b4ffc7dc97b498c969b360a41eee247f82616370"
@@ -5295,6 +5302,11 @@ redux-devtools-extension@^2.13.7:
   version "2.13.8"
   resolved "https://devops.bt.siemens.com/artifactory/api/npm/npm-all/redux-devtools-extension/-/redux-devtools-extension-2.13.8.tgz#37b982688626e5e4993ff87220c9bbb7cd2d96e1"
   integrity sha1-N7mCaIYm5eSZP/hyIMm7t80tluE=
+
+redux-thunk@*, redux-thunk@^2.3.0:
+  version "2.3.0"
+  resolved "https://devops.bt.siemens.com/artifactory/api/npm/npm-all/redux-thunk/-/redux-thunk-2.3.0.tgz#51c2c19a185ed5187aaa9a2d08b666d0d6467622"
+  integrity sha1-UcLBmhhe1Rh6qpotCLZm0NZGdiI=
 
 redux@^4.0.0, redux@^4.0.1:
   version "4.0.1"

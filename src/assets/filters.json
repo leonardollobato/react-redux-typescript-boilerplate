@@ -1,0 +1,3263 @@
+[
+    {
+       "name":"Portfolio",
+       "iconName":"apps",
+       "parentFilterId":null,
+       "rootFilterId":204,
+       "order":10,
+       "keyId":9183830,
+       "id":59,
+       "childFilters":[
+          {
+             "name":"High-voltage - Power transmission",
+             "iconName":"high-voltage.png",
+             "parentFilterId":59,
+             "rootFilterId":59,
+             "order":20,
+             "keyId":9184018,
+             "id":60,
+             "childFilters":[
+                {
+                   "name":"High-voltage substations",
+                   "iconName":null,
+                   "parentFilterId":60,
+                   "rootFilterId":59,
+                   "order":10,
+                   "keyId":9184029,
+                   "id":65,
+                   "childFilters":[
+                      {
+                         "name":"Turnkey solutions",
+                         "iconName":null,
+                         "parentFilterId":65,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184037,
+                         "id":298,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Substations with gas-insulated switchgear",
+                         "iconName":null,
+                         "parentFilterId":65,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9184038,
+                         "id":299,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Substations with air-insulated switchgear",
+                         "iconName":null,
+                         "parentFilterId":65,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9184039,
+                         "id":300,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Substations with hybrid switchgear",
+                         "iconName":null,
+                         "parentFilterId":65,
+                         "rootFilterId":59,
+                         "order":40,
+                         "keyId":9184040,
+                         "id":301,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Portable power solutions",
+                         "iconName":null,
+                         "parentFilterId":65,
+                         "rootFilterId":59,
+                         "order":50,
+                         "keyId":9184041,
+                         "id":302,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Standarized solutions",
+                         "iconName":null,
+                         "parentFilterId":65,
+                         "rootFilterId":59,
+                         "order":60,
+                         "keyId":9184042,
+                         "id":434,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Flexible AC transmission systems (FACTS)",
+                   "iconName":null,
+                   "parentFilterId":60,
+                   "rootFilterId":59,
+                   "order":20,
+                   "keyId":9184031,
+                   "id":66,
+                   "childFilters":[
+                      {
+                         "name":"Series compensation (SC)",
+                         "iconName":null,
+                         "parentFilterId":66,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184043,
+                         "id":303,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Static var compensator (SVC)",
+                         "iconName":null,
+                         "parentFilterId":66,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9184044,
+                         "id":304,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Static var compensator (SVC PLUS)",
+                         "iconName":null,
+                         "parentFilterId":66,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9184045,
+                         "id":305,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Synchronous condenser solution",
+                         "iconName":null,
+                         "parentFilterId":66,
+                         "rootFilterId":59,
+                         "order":40,
+                         "keyId":9184046,
+                         "id":306,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Mechanically switched capacitors (MSC, MSCDN)",
+                         "iconName":null,
+                         "parentFilterId":66,
+                         "rootFilterId":59,
+                         "order":50,
+                         "keyId":9184047,
+                         "id":307,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"High-voltage direct current transmission systems (HVDC)",
+                   "iconName":null,
+                   "parentFilterId":60,
+                   "rootFilterId":59,
+                   "order":30,
+                   "keyId":9184032,
+                   "id":67,
+                   "childFilters":[
+                      {
+                         "name":"HVDC Classic",
+                         "iconName":null,
+                         "parentFilterId":67,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184048,
+                         "id":308,
+                         "childFilters":[
+                            {
+                               "name":"DC Compact switchgear (DC CS)",
+                               "iconName":null,
+                               "parentFilterId":308,
+                               "rootFilterId":59,
+                               "order":10,
+                               "keyId":null,
+                               "id":311
+                            },
+                            {
+                               "name":"Standard high voltage direct current",
+                               "iconName":null,
+                               "parentFilterId":308,
+                               "rootFilterId":59,
+                               "order":20,
+                               "keyId":null,
+                               "id":312
+                            },
+                            {
+                               "name":"UHV DC",
+                               "iconName":null,
+                               "parentFilterId":308,
+                               "rootFilterId":59,
+                               "order":30,
+                               "keyId":null,
+                               "id":313
+                            }
+                         ]
+                      },
+                      {
+                         "name":"HVDC Plus",
+                         "iconName":null,
+                         "parentFilterId":67,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9184049,
+                         "id":309,
+                         "childFilters":[
+                            {
+                               "name":"Full bridge applications (OHL)",
+                               "iconName":null,
+                               "parentFilterId":309,
+                               "rootFilterId":59,
+                               "order":10,
+                               "keyId":null,
+                               "id":314
+                            },
+                            {
+                               "name":"Half bridge applications (Cable)",
+                               "iconName":null,
+                               "parentFilterId":309,
+                               "rootFilterId":59,
+                               "order":20,
+                               "keyId":null,
+                               "id":315
+                            }
+                         ]
+                      },
+                      {
+                         "name":"HVDC applications",
+                         "iconName":null,
+                         "parentFilterId":67,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9184050,
+                         "id":310,
+                         "childFilters":[
+                            {
+                               "name":"Upgrades and Refurbishments",
+                               "iconName":null,
+                               "parentFilterId":310,
+                               "rootFilterId":59,
+                               "order":10,
+                               "keyId":null,
+                               "id":316
+                            },
+                            {
+                               "name":"Interconnections",
+                               "iconName":null,
+                               "parentFilterId":310,
+                               "rootFilterId":59,
+                               "order":20,
+                               "keyId":null,
+                               "id":317
+                            },
+                            {
+                               "name":"Long-Distance Transmission via Overhead Line",
+                               "iconName":null,
+                               "parentFilterId":310,
+                               "rootFilterId":59,
+                               "order":30,
+                               "keyId":null,
+                               "id":318
+                            },
+                            {
+                               "name":"Long-Distance Transmission via Cable",
+                               "iconName":null,
+                               "parentFilterId":310,
+                               "rootFilterId":59,
+                               "order":40,
+                               "keyId":null,
+                               "id":319
+                            },
+                            {
+                               "name":"Bulk Power Transmission",
+                               "iconName":null,
+                               "parentFilterId":310,
+                               "rootFilterId":59,
+                               "order":50,
+                               "keyId":null,
+                               "id":320
+                            },
+                            {
+                               "name":"Multi-terminal Applications and Grid Enforcement",
+                               "iconName":null,
+                               "parentFilterId":310,
+                               "rootFilterId":59,
+                               "order":60,
+                               "keyId":null,
+                               "id":321
+                            },
+                            {
+                               "name":"Grid Access for Offshore Applications",
+                               "iconName":null,
+                               "parentFilterId":310,
+                               "rootFilterId":59,
+                               "order":70,
+                               "keyId":null,
+                               "id":322
+                            },
+                            {
+                               "name":"DC for Mega Cities",
+                               "iconName":null,
+                               "parentFilterId":310,
+                               "rootFilterId":59,
+                               "order":80,
+                               "keyId":null,
+                               "id":323
+                            }
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Grid access solutions",
+                   "iconName":null,
+                   "parentFilterId":60,
+                   "rootFilterId":59,
+                   "order":40,
+                   "keyId":9184033,
+                   "id":68,
+                   "childFilters":[
+                      {
+                         "name":" AC technology",
+                         "iconName":null,
+                         "parentFilterId":68,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184051,
+                         "id":324,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"DC technology",
+                         "iconName":null,
+                         "parentFilterId":68,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9184052,
+                         "id":325,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Power transmission lines",
+                   "iconName":null,
+                   "parentFilterId":60,
+                   "rootFilterId":59,
+                   "order":50,
+                   "keyId":9184034,
+                   "id":69,
+                   "childFilters":[
+                      {
+                         "name":"Gas-insulated lines for AC transmission",
+                         "iconName":null,
+                         "parentFilterId":69,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184053,
+                         "id":326,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Gas-insulated lines for DC transmission",
+                         "iconName":null,
+                         "parentFilterId":69,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9184054,
+                         "id":435,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"High-voltage cable systems",
+                         "iconName":null,
+                         "parentFilterId":69,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9184055,
+                         "id":436,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"High-voltage switchgear and devices",
+                   "iconName":null,
+                   "parentFilterId":60,
+                   "rootFilterId":59,
+                   "order":60,
+                   "keyId":9184035,
+                   "id":337,
+                   "childFilters":[
+                      {
+                         "name":"Gas-insulated switchgear",
+                         "iconName":null,
+                         "parentFilterId":337,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184056,
+                         "id":338,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Disconnectors and earthing switches",
+                         "iconName":null,
+                         "parentFilterId":337,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9184058,
+                         "id":340,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Surge arresters",
+                         "iconName":null,
+                         "parentFilterId":337,
+                         "rootFilterId":59,
+                         "order":40,
+                         "keyId":9184059,
+                         "id":341,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Instrument transformers",
+                         "iconName":null,
+                         "parentFilterId":337,
+                         "rootFilterId":59,
+                         "order":50,
+                         "keyId":9184060,
+                         "id":342,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Coil products",
+                         "iconName":null,
+                         "parentFilterId":337,
+                         "rootFilterId":59,
+                         "order":60,
+                         "keyId":9184061,
+                         "id":343,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Bushings",
+                         "iconName":null,
+                         "parentFilterId":337,
+                         "rootFilterId":59,
+                         "order":70,
+                         "keyId":9184062,
+                         "id":344,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Long rod insulators",
+                         "iconName":null,
+                         "parentFilterId":337,
+                         "rootFilterId":59,
+                         "order":80,
+                         "keyId":9184063,
+                         "id":345,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Transformers",
+                   "iconName":null,
+                   "parentFilterId":60,
+                   "rootFilterId":59,
+                   "order":70,
+                   "keyId":9184036,
+                   "id":550,
+                   "childFilters":[
+                      {
+                         "name":"Power transformers",
+                         "iconName":null,
+                         "parentFilterId":550,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184064,
+                         "id":551,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"High-current transformers for industrial applications",
+                         "iconName":null,
+                         "parentFilterId":550,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9184068,
+                         "id":553,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Phase-shifting transformers",
+                         "iconName":null,
+                         "parentFilterId":550,
+                         "rootFilterId":59,
+                         "order":40,
+                         "keyId":9184069,
+                         "id":554,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"HVDC transformers",
+                         "iconName":null,
+                         "parentFilterId":550,
+                         "rootFilterId":59,
+                         "order":50,
+                         "keyId":9184070,
+                         "id":555,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                }
+             ]
+          },
+          {
+             "name":"Medium-voltage - Power distribution",
+             "iconName":"medium-voltage.png",
+             "parentFilterId":59,
+             "rootFilterId":59,
+             "order":30,
+             "keyId":9184019,
+             "id":61,
+             "childFilters":[
+                {
+                   "name":"Medium-voltage components",
+                   "iconName":null,
+                   "parentFilterId":61,
+                   "rootFilterId":59,
+                   "order":30,
+                   "keyId":9182718,
+                   "id":74,
+                   "childFilters":[
+                      {
+                         "name":"Vacuum interrupters",
+                         "iconName":null,
+                         "parentFilterId":74,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9182813,
+                         "id":358,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"SION vacuum circuit-breakers",
+                         "iconName":null,
+                         "parentFilterId":74,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9184227,
+                         "id":359,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Vacuum circuit-breakers for special applications",
+                         "iconName":null,
+                         "parentFilterId":74,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9184228,
+                         "id":360,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Vacuum contactors",
+                         "iconName":null,
+                         "parentFilterId":74,
+                         "rootFilterId":59,
+                         "order":40,
+                         "keyId":9184229,
+                         "id":361,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Switch-disconnector and accessories",
+                         "iconName":null,
+                         "parentFilterId":74,
+                         "rootFilterId":59,
+                         "order":50,
+                         "keyId":9184230,
+                         "id":362,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Distribution transformers",
+                   "iconName":null,
+                   "parentFilterId":61,
+                   "rootFilterId":59,
+                   "order":40,
+                   "keyId":9184020,
+                   "id":75,
+                   "childFilters":[
+                      {
+                         "name":"Oil-insulated distribution transformers",
+                         "iconName":null,
+                         "parentFilterId":75,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184080,
+                         "id":364,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Dry-type transformers",
+                         "iconName":null,
+                         "parentFilterId":75,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9184081,
+                         "id":365,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Voltage regulators",
+                         "iconName":null,
+                         "parentFilterId":75,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9184082,
+                         "id":366,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Traction transformers",
+                   "iconName":null,
+                   "parentFilterId":61,
+                   "rootFilterId":59,
+                   "order":50,
+                   "keyId":9184083,
+                   "id":232,
+                   "childFilters":[
+ 
+                   ]
+                }
+             ]
+          },
+          {
+             "name":"Energy automation and smart grid",
+             "iconName":null,
+             "parentFilterId":59,
+             "rootFilterId":59,
+             "order":50,
+             "keyId":9182802,
+             "id":538,
+             "childFilters":[
+                {
+                   "name":"Smart communication",
+                   "iconName":null,
+                   "parentFilterId":538,
+                   "rootFilterId":59,
+                   "order":1,
+                   "keyId":9184084,
+                   "id":539,
+                   "childFilters":[
+                      {
+                         "name":"Tele communication solutions and services",
+                         "iconName":null,
+                         "parentFilterId":539,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184085,
+                         "id":591,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"PowerLink IP",
+                         "iconName":null,
+                         "parentFilterId":539,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9185006,
+                         "id":592,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"PowerLink 50/100",
+                         "iconName":null,
+                         "parentFilterId":539,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9185007,
+                         "id":593,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"PowerLink CM",
+                         "iconName":null,
+                         "parentFilterId":539,
+                         "rootFilterId":59,
+                         "order":40,
+                         "keyId":9185008,
+                         "id":594,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"SWT 3000",
+                         "iconName":null,
+                         "parentFilterId":539,
+                         "rootFilterId":59,
+                         "order":50,
+                         "keyId":9185009,
+                         "id":595,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"SGW1050",
+                         "iconName":null,
+                         "parentFilterId":539,
+                         "rootFilterId":59,
+                         "order":60,
+                         "keyId":9185010,
+                         "id":596,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Smart metering infrastructure",
+                   "iconName":null,
+                   "parentFilterId":538,
+                   "rootFilterId":59,
+                   "order":10,
+                   "keyId":9184086,
+                   "id":540,
+                   "childFilters":[
+                      {
+                         "name":"Smart meter / meter-data concentrator / head end system",
+                         "iconName":null,
+                         "parentFilterId":540,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184087,
+                         "id":597,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Protection",
+                   "iconName":null,
+                   "parentFilterId":538,
+                   "rootFilterId":59,
+                   "order":20,
+                   "keyId":9182803,
+                   "id":541,
+                   "childFilters":[
+                      {
+                         "name":"General protection",
+                         "iconName":null,
+                         "parentFilterId":541,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184233,
+                         "id":598,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"SIPROTEC 5",
+                         "iconName":null,
+                         "parentFilterId":541,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9183883,
+                         "id":599,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"SIPROTEC Compact",
+                         "iconName":null,
+                         "parentFilterId":541,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9183895,
+                         "id":600,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"SIPROTEC 4",
+                         "iconName":null,
+                         "parentFilterId":541,
+                         "rootFilterId":59,
+                         "order":40,
+                         "keyId":9183901,
+                         "id":601,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Reyrolle",
+                         "iconName":null,
+                         "parentFilterId":541,
+                         "rootFilterId":59,
+                         "order":50,
+                         "keyId":9183913,
+                         "id":602,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Reyrolle 5",
+                         "iconName":null,
+                         "parentFilterId":541,
+                         "rootFilterId":59,
+                         "order":60,
+                         "keyId":9185110,
+                         "id":603,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Engineering tools for protection",
+                         "iconName":null,
+                         "parentFilterId":541,
+                         "rootFilterId":59,
+                         "order":70,
+                         "keyId":9183914,
+                         "id":604,
+                         "childFilters":[
+                            {
+                               "name":"DIGSI 5",
+                               "iconName":null,
+                               "parentFilterId":604,
+                               "rootFilterId":59,
+                               "order":10,
+                               "keyId":9183946,
+                               "id":655
+                            },
+                            {
+                               "name":"DIGSI 4",
+                               "iconName":null,
+                               "parentFilterId":604,
+                               "rootFilterId":59,
+                               "order":20,
+                               "keyId":9183947,
+                               "id":656
+                            },
+                            {
+                               "name":"SIGRA",
+                               "iconName":null,
+                               "parentFilterId":604,
+                               "rootFilterId":59,
+                               "order":30,
+                               "keyId":9183949,
+                               "id":657
+                            },
+                            {
+                               "name":"IEC 61850 system configurator",
+                               "iconName":null,
+                               "parentFilterId":604,
+                               "rootFilterId":59,
+                               "order":40,
+                               "keyId":9183950,
+                               "id":658
+                            },
+                            {
+                               "name":"SIPROTEC DigitalTwin",
+                               "iconName":null,
+                               "parentFilterId":604,
+                               "rootFilterId":59,
+                               "order":50,
+                               "keyId":9185121,
+                               "id":659
+                            },
+                            {
+                               "name":"GOOSE Inspector",
+                               "iconName":null,
+                               "parentFilterId":604,
+                               "rootFilterId":59,
+                               "order":60,
+                               "keyId":9183951,
+                               "id":660
+                            },
+                            {
+                               "name":"FASE",
+                               "iconName":null,
+                               "parentFilterId":604,
+                               "rootFilterId":59,
+                               "order":70,
+                               "keyId":9183952,
+                               "id":661
+                            },
+                            {
+                               "name":"Reydisp Evolution",
+                               "iconName":null,
+                               "parentFilterId":604,
+                               "rootFilterId":59,
+                               "order":80,
+                               "keyId":9183953,
+                               "id":662
+                            },
+                            {
+                               "name":"Reydisp Manager",
+                               "iconName":null,
+                               "parentFilterId":604,
+                               "rootFilterId":59,
+                               "order":90,
+                               "keyId":9183954,
+                               "id":663
+                            },
+                            {
+                               "name":"Further Tools",
+                               "iconName":null,
+                               "parentFilterId":604,
+                               "rootFilterId":59,
+                               "order":100,
+                               "keyId":9185122,
+                               "id":664
+                            }
+                         ]
+                      },
+                      {
+                         "name":"Accessories",
+                         "iconName":null,
+                         "parentFilterId":541,
+                         "rootFilterId":59,
+                         "order":80,
+                         "keyId":9184848,
+                         "id":605,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Substation automation",
+                   "iconName":null,
+                   "parentFilterId":538,
+                   "rootFilterId":59,
+                   "order":30,
+                   "keyId":9182804,
+                   "id":542,
+                   "childFilters":[
+                      {
+                         "name":"Substation control systems and remote terminal units (RTU)",
+                         "iconName":null,
+                         "parentFilterId":542,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9183923,
+                         "id":606,
+                         "childFilters":[
+                            {
+                               "name":"SICAM PAS",
+                               "iconName":null,
+                               "parentFilterId":606,
+                               "rootFilterId":59,
+                               "order":10,
+                               "keyId":9184173,
+                               "id":641
+                            },
+                            {
+                               "name":"SICAM AK3",
+                               "iconName":null,
+                               "parentFilterId":606,
+                               "rootFilterId":59,
+                               "order":20,
+                               "keyId":9184174,
+                               "id":642
+                            },
+                            {
+                               "name":"SICAM TM",
+                               "iconName":null,
+                               "parentFilterId":606,
+                               "rootFilterId":59,
+                               "order":30,
+                               "keyId":9184175,
+                               "id":643
+                            },
+                            {
+                               "name":"SICAM A8000",
+                               "iconName":null,
+                               "parentFilterId":606,
+                               "rootFilterId":59,
+                               "order":40,
+                               "keyId":9184176,
+                               "id":644
+                            },
+                            {
+                               "name":"SICAM Safety",
+                               "iconName":null,
+                               "parentFilterId":606,
+                               "rootFilterId":59,
+                               "order":50,
+                               "keyId":9184177,
+                               "id":645
+                            }
+                         ]
+                      },
+                      {
+                         "name":"Control, monitoring and diagnostics",
+                         "iconName":null,
+                         "parentFilterId":542,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9183924,
+                         "id":607,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Software for substation automation",
+                         "iconName":null,
+                         "parentFilterId":542,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9183925,
+                         "id":608,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Bay controller",
+                         "iconName":"",
+                         "parentFilterId":542,
+                         "rootFilterId":59,
+                         "order":40,
+                         "keyId":9183926,
+                         "id":609,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Short circuit indicator",
+                         "iconName":null,
+                         "parentFilterId":542,
+                         "rootFilterId":59,
+                         "order":50,
+                         "keyId":9183927,
+                         "id":610,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Distribution automation",
+                         "iconName":null,
+                         "parentFilterId":542,
+                         "rootFilterId":59,
+                         "order":60,
+                         "keyId":9183928,
+                         "id":611,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Digital substation",
+                   "iconName":null,
+                   "parentFilterId":538,
+                   "rootFilterId":59,
+                   "order":40,
+                   "keyId":9184439,
+                   "id":543,
+                   "childFilters":[
+ 
+                   ]
+                },
+                {
+                   "name":"Microgrids",
+                   "iconName":null,
+                   "parentFilterId":538,
+                   "rootFilterId":59,
+                   "order":80,
+                   "keyId":9184091,
+                   "id":547,
+                   "childFilters":[
+ 
+                   ]
+                },
+                {
+                   "name":"Big data analytics",
+                   "iconName":null,
+                   "parentFilterId":538,
+                   "rootFilterId":59,
+                   "order":90,
+                   "keyId":9184092,
+                   "id":548,
+                   "childFilters":[
+                      {
+                         "name":"EnergyIP analytics suite",
+                         "iconName":null,
+                         "parentFilterId":548,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184093,
+                         "id":620,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Omnetric",
+                         "iconName":null,
+                         "parentFilterId":548,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":null,
+                         "id":636,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Cyber security",
+                   "iconName":null,
+                   "parentFilterId":538,
+                   "rootFilterId":59,
+                   "order":100,
+                   "keyId":9183942,
+                   "id":549,
+                   "childFilters":[
+                      {
+                         "name":"SICAM GridPass",
+                         "iconName":null,
+                         "parentFilterId":549,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184803,
+                         "id":621,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Power quality and measurement",
+                   "iconName":null,
+                   "parentFilterId":538,
+                   "rootFilterId":59,
+                   "order":50,
+                   "keyId":9182805,
+                   "id":590,
+                   "childFilters":[
+                      {
+                         "name":"Power meter",
+                         "iconName":null,
+                         "parentFilterId":590,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9183934,
+                         "id":612,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Digital measurement and transducer",
+                         "iconName":null,
+                         "parentFilterId":590,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9183935,
+                         "id":613,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Power quality recorder",
+                         "iconName":null,
+                         "parentFilterId":590,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9183936,
+                         "id":614,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Fault recorder",
+                         "iconName":null,
+                         "parentFilterId":590,
+                         "rootFilterId":59,
+                         "order":40,
+                         "keyId":9183937,
+                         "id":615,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Software for power quality and measurement",
+                         "iconName":null,
+                         "parentFilterId":590,
+                         "rootFilterId":59,
+                         "order":50,
+                         "keyId":9183938,
+                         "id":616,
+                         "childFilters":[
+                            {
+                               "name":"SICAM PQ Analyzer",
+                               "iconName":null,
+                               "parentFilterId":616,
+                               "rootFilterId":59,
+                               "order":10,
+                               "keyId":9184180,
+                               "id":646
+                            },
+                            {
+                               "name":"SICAM PQS",
+                               "iconName":null,
+                               "parentFilterId":616,
+                               "rootFilterId":59,
+                               "order":20,
+                               "keyId":9184210,
+                               "id":647
+                            },
+                            {
+                               "name":"SIGUARD PDP",
+                               "iconName":null,
+                               "parentFilterId":616,
+                               "rootFilterId":59,
+                               "order":30,
+                               "keyId":9184211,
+                               "id":648
+                            },
+                            {
+                               "name":"SICAM P Par",
+                               "iconName":null,
+                               "parentFilterId":616,
+                               "rootFilterId":59,
+                               "order":40,
+                               "keyId":9184212,
+                               "id":649
+                            },
+                            {
+                               "name":"Further Tools",
+                               "iconName":null,
+                               "parentFilterId":616,
+                               "rootFilterId":59,
+                               "order":50,
+                               "keyId":9184358,
+                               "id":650
+                            }
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Grid control",
+                   "iconName":null,
+                   "parentFilterId":538,
+                   "rootFilterId":59,
+                   "order":60,
+                   "keyId":9184358,
+                   "id":651,
+                   "childFilters":[
+ 
+                   ]
+                },
+                {
+                   "name":"Grid applications",
+                   "iconName":null,
+                   "parentFilterId":538,
+                   "rootFilterId":59,
+                   "order":70,
+                   "keyId":9184019,
+                   "id":652,
+                   "childFilters":[
+                      {
+                         "name":"EnergyIP platform and applications",
+                         "iconName":null,
+                         "parentFilterId":652,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184090,
+                         "id":653,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"FLiC ? Fault localization in the cloud",
+                         "iconName":null,
+                         "parentFilterId":652,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9184231,
+                         "id":654,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                }
+             ]
+          },
+          {
+             "name":"Low-voltage - Power distribution",
+             "iconName":null,
+             "parentFilterId":59,
+             "rootFilterId":59,
+             "order":40,
+             "keyId":9182883,
+             "id":638,
+             "childFilters":[
+                {
+                   "name":"Software for low-voltage - power distribution",
+                   "iconName":null,
+                   "parentFilterId":638,
+                   "rootFilterId":59,
+                   "order":30,
+                   "keyId":9174570,
+                   "id":559,
+                   "childFilters":[
+                      {
+                         "name":"Planning the power distribution system with SIMARIS",
+                         "iconName":null,
+                         "parentFilterId":559,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":8964348,
+                         "id":573,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Configuring, visualizing and controlling with SIMATIC",
+                         "iconName":null,
+                         "parentFilterId":559,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9174573,
+                         "id":574,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Configuring, visualizing and controlling with SENTRON",
+                         "iconName":null,
+                         "parentFilterId":559,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9174571,
+                         "id":575,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                }
+             ]
+          },
+          {
+             "name":"Services for power transmission, distribution and smart grid",
+             "iconName":null,
+             "parentFilterId":59,
+             "rootFilterId":59,
+             "order":60,
+             "keyId":9184095,
+             "id":639,
+             "childFilters":[
+                {
+                   "name":"Consulting and planning",
+                   "iconName":"",
+                   "parentFilterId":639,
+                   "rootFilterId":59,
+                   "order":10,
+                   "keyId":9184096,
+                   "id":245,
+                   "childFilters":[
+                      {
+                         "name":"Energy business advisory",
+                         "iconName":null,
+                         "parentFilterId":245,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184812,
+                         "id":405,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Power system simulation software",
+                         "iconName":null,
+                         "parentFilterId":245,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9184817,
+                         "id":537,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Customer support center",
+                   "iconName":"",
+                   "parentFilterId":639,
+                   "rootFilterId":59,
+                   "order":20,
+                   "keyId":9184099,
+                   "id":246,
+                   "childFilters":[
+ 
+                   ]
+                },
+                {
+                   "name":"Product services",
+                   "iconName":"",
+                   "parentFilterId":639,
+                   "rootFilterId":59,
+                   "order":30,
+                   "keyId":9184098,
+                   "id":247,
+                   "childFilters":[
+                      {
+                         "name":"Services at a glance",
+                         "iconName":null,
+                         "parentFilterId":247,
+                         "rootFilterId":59,
+                         "order":null,
+                         "keyId":null,
+                         "id":411,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Services for substations",
+                         "iconName":null,
+                         "parentFilterId":247,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184691,
+                         "id":412,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"FACTS services",
+                         "iconName":null,
+                         "parentFilterId":247,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9184441,
+                         "id":413,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"HVDC services",
+                         "iconName":null,
+                         "parentFilterId":247,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9184813,
+                         "id":414,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Grid access services",
+                         "iconName":null,
+                         "parentFilterId":247,
+                         "rootFilterId":59,
+                         "order":40,
+                         "keyId":9184829,
+                         "id":415,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"High voltage switchgear services",
+                         "iconName":null,
+                         "parentFilterId":247,
+                         "rootFilterId":59,
+                         "order":50,
+                         "keyId":9184830,
+                         "id":416,
+                         "childFilters":[
+                            {
+                               "name":"High-voltage air insulated switchgear",
+                               "iconName":null,
+                               "parentFilterId":416,
+                               "rootFilterId":59,
+                               "order":10,
+                               "keyId":9184911,
+                               "id":622
+                            },
+                            {
+                               "name":"High-voltage gas insulated switchgear",
+                               "iconName":null,
+                               "parentFilterId":416,
+                               "rootFilterId":59,
+                               "order":20,
+                               "keyId":9184918,
+                               "id":623
+                            },
+                            {
+                               "name":"Merlin Gerin",
+                               "iconName":null,
+                               "parentFilterId":416,
+                               "rootFilterId":59,
+                               "order":30,
+                               "keyId":9184919,
+                               "id":624
+                            }
+                         ]
+                      },
+                      {
+                         "name":"Medium voltage switchgear services",
+                         "iconName":null,
+                         "parentFilterId":247,
+                         "rootFilterId":59,
+                         "order":60,
+                         "keyId":9184831,
+                         "id":417,
+                         "childFilters":[
+                            {
+                               "name":"Medium-voltage air insulated switchgear",
+                               "iconName":null,
+                               "parentFilterId":417,
+                               "rootFilterId":59,
+                               "order":10,
+                               "keyId":9184914,
+                               "id":625
+                            },
+                            {
+                               "name":"Medium-voltage gas insulated switchgear",
+                               "iconName":null,
+                               "parentFilterId":417,
+                               "rootFilterId":59,
+                               "order":20,
+                               "keyId":9184921,
+                               "id":626
+                            },
+                            {
+                               "name":"Nuova Magrini Galileo",
+                               "iconName":null,
+                               "parentFilterId":417,
+                               "rootFilterId":59,
+                               "order":30,
+                               "keyId":9184922,
+                               "id":627
+                            },
+                            {
+                               "name":"Allis Chalmers",
+                               "iconName":null,
+                               "parentFilterId":417,
+                               "rootFilterId":59,
+                               "order":40,
+                               "keyId":9184923,
+                               "id":628
+                            },
+                            {
+                               "name":"Reyrolle",
+                               "iconName":null,
+                               "parentFilterId":417,
+                               "rootFilterId":59,
+                               "order":50,
+                               "keyId":9184924,
+                               "id":629
+                            }
+                         ]
+                      },
+                      {
+                         "name":"Transformer services",
+                         "iconName":null,
+                         "parentFilterId":247,
+                         "rootFilterId":59,
+                         "order":70,
+                         "keyId":9184832,
+                         "id":418,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Cable services",
+                         "iconName":null,
+                         "parentFilterId":247,
+                         "rootFilterId":59,
+                         "order":80,
+                         "keyId":9184833,
+                         "id":419,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Digital Service",
+                   "iconName":"",
+                   "parentFilterId":639,
+                   "rootFilterId":59,
+                   "order":40,
+                   "keyId":9184690,
+                   "id":248,
+                   "childFilters":[
+                      {
+                         "name":"Smart communication services",
+                         "iconName":null,
+                         "parentFilterId":248,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184834,
+                         "id":578,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Monitoring and diagnostics",
+                         "iconName":null,
+                         "parentFilterId":248,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9184836,
+                         "id":579,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Remote services",
+                         "iconName":null,
+                         "parentFilterId":248,
+                         "rootFilterId":59,
+                         "order":40,
+                         "keyId":9184837,
+                         "id":580,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Asset management",
+                         "iconName":null,
+                         "parentFilterId":248,
+                         "rootFilterId":59,
+                         "order":50,
+                         "keyId":9184838,
+                         "id":581,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Cyber Security",
+                         "iconName":null,
+                         "parentFilterId":248,
+                         "rootFilterId":59,
+                         "order":60,
+                         "keyId":9184839,
+                         "id":582,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Service Programs",
+                   "iconName":"",
+                   "parentFilterId":639,
+                   "rootFilterId":59,
+                   "order":50,
+                   "keyId":9184100,
+                   "id":249,
+                   "childFilters":[
+ 
+                   ]
+                },
+                {
+                   "name":"Test lab services",
+                   "iconName":null,
+                   "parentFilterId":639,
+                   "rootFilterId":59,
+                   "order":60,
+                   "keyId":9184105,
+                   "id":250,
+                   "childFilters":[
+                      {
+                         "name":"Test and research laboratories (high- and medium-voltage)",
+                         "iconName":null,
+                         "parentFilterId":250,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184841,
+                         "id":427,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Test laboratory for transformer materials",
+                         "iconName":null,
+                         "parentFilterId":250,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9184842,
+                         "id":428,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Electrical research and testing laboratory for transformers",
+                         "iconName":null,
+                         "parentFilterId":250,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9184843,
+                         "id":429,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                },
+                {
+                   "name":"Training",
+                   "iconName":null,
+                   "parentFilterId":639,
+                   "rootFilterId":59,
+                   "order":70,
+                   "keyId":9184112,
+                   "id":251,
+                   "childFilters":[
+ 
+                   ]
+                },
+                {
+                   "name":" Financing",
+                   "iconName":"",
+                   "parentFilterId":639,
+                   "rootFilterId":59,
+                   "order":80,
+                   "keyId":9184441,
+                   "id":252,
+                   "childFilters":[
+                      {
+                         "name":"Brochures",
+                         "iconName":null,
+                         "parentFilterId":252,
+                         "rootFilterId":59,
+                         "order":10,
+                         "keyId":9184906,
+                         "id":430,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Financing solutions",
+                         "iconName":null,
+                         "parentFilterId":252,
+                         "rootFilterId":59,
+                         "order":20,
+                         "keyId":9184908,
+                         "id":431,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"References",
+                         "iconName":null,
+                         "parentFilterId":252,
+                         "rootFilterId":59,
+                         "order":30,
+                         "keyId":9184917,
+                         "id":432,
+                         "childFilters":[
+ 
+                         ]
+                      },
+                      {
+                         "name":"Whitepaper",
+                         "iconName":null,
+                         "parentFilterId":252,
+                         "rootFilterId":59,
+                         "order":40,
+                         "keyId":9184910,
+                         "id":433,
+                         "childFilters":[
+ 
+                         ]
+                      }
+                   ]
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Verticals",
+       "iconName":"stats",
+       "parentFilterId":null,
+       "rootFilterId":204,
+       "order":20,
+       "keyId":null,
+       "id":89,
+       "childFilters":[
+          {
+             "name":"Oil and Gas",
+             "iconName":"vm15.png",
+             "parentFilterId":89,
+             "rootFilterId":89,
+             "order":90,
+             "keyId":9174304,
+             "id":90,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Mining",
+             "iconName":"vm27.png",
+             "parentFilterId":89,
+             "rootFilterId":89,
+             "order":70,
+             "keyId":9181552,
+             "id":91,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Chemicals",
+             "iconName":"vm32.png",
+             "parentFilterId":89,
+             "rootFilterId":89,
+             "order":30,
+             "keyId":9174284,
+             "id":92,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Automotive",
+             "iconName":"vm38.png",
+             "parentFilterId":89,
+             "rootFilterId":89,
+             "order":20,
+             "keyId":1096894,
+             "id":93,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Harbors",
+             "iconName":"vm36.png",
+             "parentFilterId":89,
+             "rootFilterId":89,
+             "order":60,
+             "keyId":null,
+             "id":96,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Stadiums",
+             "iconName":"vm3.png",
+             "parentFilterId":89,
+             "rootFilterId":89,
+             "order":130,
+             "keyId":null,
+             "id":97,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Railway Infrastructure",
+             "iconName":"vm17.png",
+             "parentFilterId":89,
+             "rootFilterId":89,
+             "order":100,
+             "keyId":9174289,
+             "id":98,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Airports",
+             "iconName":"vm2.png",
+             "parentFilterId":89,
+             "rootFilterId":89,
+             "order":10,
+             "keyId":null,
+             "id":99,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Solar",
+             "iconName":"vm42.png",
+             "parentFilterId":89,
+             "rootFilterId":89,
+             "order":120,
+             "keyId":9180488,
+             "id":100,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"OEMs, Distributors",
+             "iconName":"vm50.png",
+             "parentFilterId":89,
+             "rootFilterId":89,
+             "order":80,
+             "keyId":9174292,
+             "id":104,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Data Center",
+             "iconName":null,
+             "parentFilterId":89,
+             "rootFilterId":89,
+             "order":50,
+             "keyId":9183435,
+             "id":584,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Municipalities and Distribution System Operators",
+             "iconName":null,
+             "parentFilterId":89,
+             "rootFilterId":89,
+             "order":75,
+             "keyId":9183438,
+             "id":587,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Food and Beverage",
+             "iconName":null,
+             "parentFilterId":89,
+             "rootFilterId":89,
+             "order":55,
+             "keyId":9174286,
+             "id":589,
+             "childFilters":[
+ 
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Language",
+       "iconName":"globe",
+       "parentFilterId":null,
+       "rootFilterId":null,
+       "order":80,
+       "keyId":null,
+       "id":105,
+       "childFilters":[
+          {
+             "name":"German",
+             "iconName":"Germany.png",
+             "parentFilterId":105,
+             "rootFilterId":105,
+             "order":null,
+             "keyId":null,
+             "id":106,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"English",
+             "iconName":"ukus.png",
+             "parentFilterId":105,
+             "rootFilterId":105,
+             "order":null,
+             "keyId":null,
+             "id":107,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"French",
+             "iconName":"France.png",
+             "parentFilterId":105,
+             "rootFilterId":105,
+             "order":null,
+             "keyId":null,
+             "id":108,
+             "childFilters":[
+ 
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Country",
+       "iconName":null,
+       "parentFilterId":null,
+       "rootFilterId":null,
+       "order":-1,
+       "keyId":null,
+       "id":109,
+       "childFilters":[
+          {
+             "name":"Argentina",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":110,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Australia",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":111,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Austria",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":112,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Bangladesh",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":113,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Belgium",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":114,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Brazil",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":115,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Canada",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":116,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Chile",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":117,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Columbia",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":118,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Czech Republic",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":119,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Denmark",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":120,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Ecuador",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":121,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Finland & Baltics",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":122,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"France",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":123,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Germany",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":124,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Greece",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":125,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Hong Kong",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":126,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"India",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":127,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Indonesia",
+             "iconName":null,
+             "parentFilterId":109,
+             "rootFilterId":109,
+             "order":null,
+             "keyId":null,
+             "id":129,
+             "childFilters":[
+ 
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Methods",
+       "iconName":"contract",
+       "parentFilterId":null,
+       "rootFilterId":204,
+       "order":50,
+       "keyId":null,
+       "id":138,
+       "childFilters":[
+          {
+             "name":"Sales",
+             "iconName":null,
+             "parentFilterId":138,
+             "rootFilterId":138,
+             "order":null,
+             "keyId":null,
+             "id":139,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Networking",
+             "iconName":null,
+             "parentFilterId":138,
+             "rootFilterId":138,
+             "order":null,
+             "keyId":null,
+             "id":140,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Acquisition",
+             "iconName":null,
+             "parentFilterId":138,
+             "rootFilterId":138,
+             "order":null,
+             "keyId":null,
+             "id":141,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Marketing Activities",
+             "iconName":null,
+             "parentFilterId":138,
+             "rootFilterId":138,
+             "order":null,
+             "keyId":null,
+             "id":142,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Sales Planning",
+             "iconName":null,
+             "parentFilterId":138,
+             "rootFilterId":138,
+             "order":null,
+             "keyId":null,
+             "id":143,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Team Management",
+             "iconName":null,
+             "parentFilterId":138,
+             "rootFilterId":138,
+             "order":null,
+             "keyId":null,
+             "id":145,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Project",
+             "iconName":null,
+             "parentFilterId":138,
+             "rootFilterId":138,
+             "order":null,
+             "keyId":null,
+             "id":146,
+             "childFilters":[
+ 
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Source",
+       "iconName":null,
+       "parentFilterId":null,
+       "rootFilterId":null,
+       "order":-1,
+       "keyId":null,
+       "id":147,
+       "childFilters":[
+          {
+             "name":"Power Academy",
+             "iconName":null,
+             "parentFilterId":147,
+             "rootFilterId":147,
+             "order":null,
+             "keyId":null,
+             "id":148,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Learning Campus",
+             "iconName":null,
+             "parentFilterId":147,
+             "rootFilterId":147,
+             "order":null,
+             "keyId":null,
+             "id":149,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Video@Siemens",
+             "iconName":null,
+             "parentFilterId":147,
+             "rootFilterId":147,
+             "order":null,
+             "keyId":null,
+             "id":150,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"ODP",
+             "iconName":null,
+             "parentFilterId":147,
+             "rootFilterId":147,
+             "order":null,
+             "keyId":null,
+             "id":151,
+             "childFilters":[
+ 
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Tools",
+       "iconName":"construct",
+       "parentFilterId":null,
+       "rootFilterId":204,
+       "order":40,
+       "keyId":null,
+       "id":152,
+       "childFilters":[
+          {
+             "name":"Philos",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":250,
+             "keyId":null,
+             "id":153,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"CRM Dash",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":80,
+             "keyId":null,
+             "id":154,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Offer Manager 2.0 (BMC footprint Webtool)",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":200,
+             "keyId":null,
+             "id":155,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"OGT",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":210,
+             "keyId":null,
+             "id":156,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"NX-Tools+ (Pisasales)",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":180,
+             "keyId":null,
+             "id":157,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Siemaris",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":320,
+             "keyId":null,
+             "id":158,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Teamcenter",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":360,
+             "keyId":null,
+             "id":159,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"NASA",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":160,
+             "keyId":null,
+             "id":160,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"P12",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":266,
+             "keyId":null,
+             "id":161,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Spiridon",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":340,
+             "keyId":null,
+             "id":162,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"P5",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":270,
+             "keyId":null,
+             "id":163,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Rulestream",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":290,
+             "keyId":null,
+             "id":164,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Powercalc (HQ only)",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":260,
+             "keyId":null,
+             "id":165,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"MS S Sales Process",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":150,
+             "keyId":null,
+             "id":167,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Organization of MS",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":230,
+             "keyId":null,
+             "id":168,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Order Processing with MS factories",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":220,
+             "keyId":null,
+             "id":169,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Agile",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":10,
+             "keyId":null,
+             "id":170,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"IPC Internet Pricing Configurator",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":120,
+             "keyId":null,
+             "id":171,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"IPC - interface to Spiridon (SPP & SWP)",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":110,
+             "keyId":null,
+             "id":172,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"PS5",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":265,
+             "keyId":null,
+             "id":173,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Compass for Products in Internet",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":70,
+             "keyId":null,
+             "id":174,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Vendavo",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":370,
+             "keyId":null,
+             "id":175,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"SFDC",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":315,
+             "keyId":null,
+             "id":176,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Offer Assistence",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":190,
+             "keyId":null,
+             "id":178,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"SAP (NASA/PS5/PA1)",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":310,
+             "keyId":null,
+             "id":179,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"MALL / PMD / VSR",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":140,
+             "keyId":null,
+             "id":180,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Simaris CFA",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":330,
+             "keyId":null,
+             "id":181,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"NX Tools (partnering)",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":170,
+             "keyId":null,
+             "id":182,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Compas",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":60,
+             "keyId":null,
+             "id":183,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Bid Release Form",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":30,
+             "keyId":null,
+             "id":184,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"BTA ( Business Target Agreement)",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":40,
+             "keyId":null,
+             "id":185,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"References+",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":280,
+             "keyId":null,
+             "id":194,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Circuit",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":50,
+             "keyId":null,
+             "id":200,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"EM Sales App",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":100,
+             "keyId":null,
+             "id":207,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Distribution Grid Application App",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":90,
+             "keyId":null,
+             "id":208,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Asset Simulator App",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":20,
+             "keyId":null,
+             "id":209,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Sales Product Guide App",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":300,
+             "keyId":null,
+             "id":210,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Lead Management",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":130,
+             "keyId":null,
+             "id":440,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"SSN",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":350,
+             "keyId":null,
+             "id":441,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Training App",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":365,
+             "keyId":null,
+             "id":583,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Winning Guide App",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":380,
+             "keyId":null,
+             "id":588,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"SieSales",
+             "iconName":null,
+             "parentFilterId":152,
+             "rootFilterId":152,
+             "order":335,
+             "keyId":null,
+             "id":640,
+             "childFilters":[
+ 
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Type",
+       "iconName":null,
+       "parentFilterId":null,
+       "rootFilterId":null,
+       "order":-1,
+       "keyId":null,
+       "id":186,
+       "childFilters":[
+          {
+             "name":"e-Learning (WBT)",
+             "iconName":null,
+             "parentFilterId":186,
+             "rootFilterId":186,
+             "order":null,
+             "keyId":null,
+             "id":187,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Video (approved)",
+             "iconName":null,
+             "parentFilterId":186,
+             "rootFilterId":186,
+             "order":null,
+             "keyId":null,
+             "id":188,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Video (user-generated)",
+             "iconName":null,
+             "parentFilterId":186,
+             "rootFilterId":186,
+             "order":null,
+             "keyId":null,
+             "id":189,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Reading material",
+             "iconName":null,
+             "parentFilterId":186,
+             "rootFilterId":186,
+             "order":null,
+             "keyId":null,
+             "id":190,
+             "childFilters":[
+ 
+             ]
+          }
+       ]
+    },
+    {
+       "name":"-",
+       "iconName":null,
+       "parentFilterId":null,
+       "rootFilterId":null,
+       "order":60,
+       "keyId":null,
+       "id":199,
+       "childFilters":[
+ 
+       ]
+    },
+    {
+       "name":"Division",
+       "iconName":null,
+       "parentFilterId":null,
+       "rootFilterId":null,
+       "order":70,
+       "keyId":null,
+       "id":202,
+       "childFilters":[
+          {
+             "name":"SI",
+             "iconName":null,
+             "parentFilterId":202,
+             "rootFilterId":202,
+             "order":1,
+             "keyId":null,
+             "id":204,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"SI RSS-DE",
+             "iconName":null,
+             "parentFilterId":202,
+             "rootFilterId":202,
+             "order":2,
+             "keyId":null,
+             "id":206,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"PG-DR",
+             "iconName":null,
+             "parentFilterId":202,
+             "rootFilterId":202,
+             "order":3,
+             "keyId":null,
+             "id":211,
+             "childFilters":[
+ 
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Allgemeine Grundlagen",
+       "iconName":"grundlagen.png",
+       "parentFilterId":null,
+       "rootFilterId":206,
+       "order":1,
+       "keyId":null,
+       "id":215,
+       "childFilters":[
+ 
+       ]
+    },
+    {
+       "name":"Technik & Portfolio",
+       "iconName":"portfolio.png",
+       "parentFilterId":null,
+       "rootFilterId":206,
+       "order":2,
+       "keyId":null,
+       "id":217,
+       "childFilters":[
+          {
+             "name":"Safety & Security",
+             "iconName":null,
+             "parentFilterId":217,
+             "rootFilterId":217,
+             "order":5,
+             "keyId":null,
+             "id":585,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Comfort",
+             "iconName":null,
+             "parentFilterId":217,
+             "rootFilterId":217,
+             "order":6,
+             "keyId":null,
+             "id":586,
+             "childFilters":[
+ 
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Arbeitsmittel",
+       "iconName":"arbeitsmittel.png",
+       "parentFilterId":null,
+       "rootFilterId":206,
+       "order":3,
+       "keyId":null,
+       "id":219,
+       "childFilters":[
+          {
+             "name":"Arbeitsmittel",
+             "iconName":null,
+             "parentFilterId":219,
+             "rootFilterId":219,
+             "order":null,
+             "keyId":null,
+             "id":229,
+             "childFilters":[
+ 
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Level",
+       "iconName":null,
+       "parentFilterId":null,
+       "rootFilterId":null,
+       "order":90,
+       "keyId":null,
+       "id":630,
+       "childFilters":[
+          {
+             "name":"Basic",
+             "iconName":null,
+             "parentFilterId":630,
+             "rootFilterId":630,
+             "order":10,
+             "keyId":0,
+             "id":632,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Advanced",
+             "iconName":null,
+             "parentFilterId":630,
+             "rootFilterId":630,
+             "order":20,
+             "keyId":null,
+             "id":633,
+             "childFilters":[
+ 
+             ]
+          },
+          {
+             "name":"Expert",
+             "iconName":null,
+             "parentFilterId":630,
+             "rootFilterId":630,
+             "order":30,
+             "keyId":null,
+             "id":634,
+             "childFilters":[
+ 
+             ]
+          }
+       ]
+    }
+ ]

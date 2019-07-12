@@ -1,4 +1,6 @@
 import { createAction } from 'redux-actions'
+import { ThunkAction, ThunkDispatch } from 'redux-thunk'
+import { AnyAction } from 'redux'
 import { TrainingModel } from 'app/models'
 
 export namespace TrainingActions {
@@ -14,8 +16,23 @@ export namespace TrainingActions {
   )
 
   export const fetchTrainingBegin = createAction(Type.FETCH_TRAINING_BEGIN)
-  export const fetchTrainingSuccess = createAction(Type.FETCH_TRAINING_SUCCESS)
+  export const fetchTrainingSuccess = createAction<TrainingModel[]>(Type.FETCH_TRAINING_SUCCESS)
   export const fetchTrainingFailure = createAction(Type.FETCH_TRAINING_FAILURE)
+
+  export const fetchTrainings = (): ThunkAction<Promise<void>, {}, {}, AnyAction> => {
+    // Invoke API
+    return async (dispatch: ThunkDispatch<{}, {}, AnyAction>): Promise<void> => {
+      return new Promise<void>((resolve) => {
+        dispatch(fetchTrainingBegin())
+        setTimeout(() => {
+          fetch('../../assets/trainings.json').then((data: Response) => {
+            dispatch(fetchTrainingSuccess(data))
+          })
+          resolve()
+        }, 3000)
+      })
+    }
+  }
 }
 
 export type TrainingActions = Omit<typeof TrainingActions, 'Type'>
