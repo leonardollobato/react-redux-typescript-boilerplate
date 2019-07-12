@@ -1,5 +1,9 @@
 import * as React from 'react'
-import { TrainingModel } from 'app/models/TrainingModel'
+import { TrainingModel } from 'app/models'
+import { TrainingActions } from 'app/actions'
+import { TrainingItem } from '../TrainingItem'
+
+import * as style from './style.css'
 
 //import { TodoItem } from '../TodoItem'
 
@@ -10,35 +14,17 @@ export namespace Home {
   }
 }
 
-export class Home extends React.Component<TodoList.Props> {
-  renderToggleAll(): JSX.Element | void {
-    const { todos, actions } = this.props
-    if (todos.length > 0) {
-      const hasIncompleted = todos.some((todo) => !todo.completed)
-      return (
-        <input
-          className={style.toggleAll}
-          type="checkbox"
-          checked={hasIncompleted}
-          onChange={actions.completeAll}
-        />
-      )
-    }
-  }
-
+export class Home extends React.Component<Home.Props> {
   render() {
-    const { todos, actions } = this.props
+    const { trainings, actions } = this.props
     return (
       <section className={style.main}>
-        {this.renderToggleAll()}
         <ul className={style.normal}>
-          {todos.map((todo) => (
-            <TodoItem
-              key={todo.id}
-              todo={todo}
-              completeTodo={actions.completeTodo}
-              deleteTodo={actions.deleteTodo}
-              editTodo={actions.editTodo}
+          {trainings.map((training) => (
+            <TrainingItem
+              key={training.id}
+              training={training}
+              toggleFavorite={actions.toggleFavoriteTraining}
             />
           ))}
         </ul>

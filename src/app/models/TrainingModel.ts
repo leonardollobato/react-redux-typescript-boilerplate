@@ -3,7 +3,7 @@
 export interface TrainingModel {
   id: number
   text: string
-  completed: boolean
+  favorited: boolean
 }
 
 export namespace TrainingModel {

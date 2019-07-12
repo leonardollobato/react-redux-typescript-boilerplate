@@ -1,81 +1,44 @@
 import * as React from 'react'
-import * as classNames from 'classnames'
 import * as style from './style.css'
-import { TodoModel } from 'app/models'
-import { TodoActions } from 'app/actions'
-import { TodoTextInput } from '../TodoTextInput'
+import { TrainingModel } from 'app/models'
+import { TrainingActions } from 'app/actions'
 
-export namespace TodoItem {
+export namespace TrainingItem {
   export interface Props {
-    todo: TodoModel
-    editTodo: typeof TodoActions.editTodo
-    deleteTodo: typeof TodoActions.deleteTodo
-    completeTodo: typeof TodoActions.completeTodo
+    training: TrainingModel
+    toggleFavorite: typeof TrainingActions.toggleFavoriteTraining
   }
 
   export interface State {
-    editing: boolean
+    favorite: boolean
   }
 }
 
-export class TodoItem extends React.Component<TodoItem.Props, TodoItem.State> {
-  constructor(props: TodoItem.Props, context?: any) {
+export class TrainingItem extends React.Component<TrainingItem.Props, TrainingItem.State> {
+  constructor(props: TrainingItem.Props, context?: any) {
     super(props, context)
-    this.state = { editing: false }
+    this.state = { favorite: false }
   }
 
   handleDoubleClick() {
-    this.setState({ editing: true })
-  }
-
-  handleSave(id: number, text: string) {
-    if (text.length === 0) {
-      this.props.deleteTodo(id)
-    } else {
-      this.props.editTodo({ id, text })
-    }
-    this.setState({ editing: false })
+    this.setState({ favorite: true })
   }
 
   render() {
-    const { todo, completeTodo, deleteTodo } = this.props
+    const { training, toggleFavorite } = this.props
 
-    let element
-    if (this.state.editing) {
-      element = (
-        <TodoTextInput
-          text={todo.text}
-          editing={this.state.editing}
-          onSave={(text) => todo.id && this.handleSave(todo.id, text)}
+    const element = (
+      <div className={style.view}>
+        <label onDoubleClick={() => this.handleDoubleClick()}>{training.text}</label>
+        <button
+          className={style.destroy}
+          onClick={() => {
+            if (training.id) toggleFavorite(training.id)
+          }}
         />
-      )
-    } else {
-      element = (
-        <div className={style.view}>
-          <input
-            className={style.toggle}
-            type="checkbox"
-            checked={todo.completed}
-            onChange={() => todo.id && completeTodo(todo.id)}
-          />
-          <label onDoubleClick={() => this.handleDoubleClick()}>{todo.text}</label>
-          <button
-            className={style.destroy}
-            onClick={() => {
-              if (todo.id) deleteTodo(todo.id)
-            }}
-          />
-        </div>
-      )
-    }
+      </div>
+    )
 
-    // TODO: compose
-    const classes = classNames({
-      [style.completed]: todo.completed,
-      [style.editing]: this.state.editing,
-      [style.normal]: !this.state.editing
-    })
-
-    return <li className={classes}>{element}</li>
+    return <li>{element}</li>
   }
 }
