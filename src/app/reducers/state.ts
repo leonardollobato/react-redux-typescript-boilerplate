@@ -1,12 +1,8 @@
-import { TodoModel, TrainingModel } from 'app/models'
+import { ITrainingState } from './TrainingReducer'
+import { ITodoState } from './TodoReducer'
 
 export interface RootState {
-  todos: RootState.TodoState
-  trainings: RootState.TrainingState
+  todos: ITodoState
+  trainings: ITrainingState
   router?: any
-}
-
-export namespace RootState {
-  export type TodoState = TodoModel[]
-  export type TrainingState = TrainingModel[]
 }

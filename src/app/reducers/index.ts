@@ -1,7 +1,7 @@
 import { combineReducers } from 'redux'
 import { RootState } from './state'
-import { todoReducer } from './todos'
-import { trainingReducer } from './trainings'
+import { todoReducer } from './TodoReducer'
+import { trainingReducer } from './TrainingReducer'
 
 export { RootState }
 

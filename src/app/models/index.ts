@@ -1,2 +1,2 @@
-export * from './TodoModel'
-export * from './TrainingModel'
+export * from './ITodo'
+export * from './ITraining'

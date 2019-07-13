@@ -1,12 +1,12 @@
 /** TodoMVC model definitions **/
 
-export interface TrainingModel {
+export interface ITodo {
   id: number
   text: string
-  favorited: boolean
+  completed: boolean
 }
 
-export namespace TrainingModel {
+export namespace ITodo {
   export enum Filter {
     SHOW_ALL = 'all',
     SHOW_ACTIVE = 'active',

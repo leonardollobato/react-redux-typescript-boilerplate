@@ -1,11 +1,11 @@
 import * as React from 'react'
 import * as style from './style.css'
-import { TrainingModel } from 'app/models'
+import { ITraining } from 'app/models'
 import { TrainingActions } from 'app/actions'
 
 export namespace TrainingItem {
   export interface Props {
-    training: TrainingModel
+    training: ITraining
     toggleFavorite: typeof TrainingActions.toggleFavoriteTraining
   }
 
@@ -29,7 +29,7 @@ export class TrainingItem extends React.Component<TrainingItem.Props, TrainingIt
 
     const element = (
       <div className={style.view}>
-        <label onDoubleClick={() => this.handleDoubleClick()}>{training.text}</label>
+        <label onDoubleClick={() => this.handleDoubleClick()}>{training.name}</label>
         <button
           className={style.destroy}
           onClick={() => {

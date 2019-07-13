@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { TrainingModel } from 'app/models'
+import { ITraining } from 'app/models'
 import { TrainingActions } from 'app/actions'
 //import { TrainingItem } from '../TrainingItem'
 
@@ -9,7 +9,7 @@ import * as style from './style.css'
 
 export namespace Home {
   export interface Props {
-    trainings: TrainingModel[]
+    trainings: ITraining[]
     actions: TrainingActions
   }
 }

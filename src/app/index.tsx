@@ -1,7 +1,8 @@
 import * as React from 'react'
 import { Route, Link } from 'react-router-dom'
 import { hot } from 'react-hot-loader'
-import { Home } from './components'
+import { Home } from './containers/Home'
+import { App as app } from './containers/App'
 
 export const App = hot(module)(() => (
   <div>
@@ -9,6 +10,7 @@ export const App = hot(module)(() => (
     <Route exact path="/" component={Home} />
     <Route path="/about" component={About} />
     <Route path="/topics" component={Topics} />
+    <Route path="/todos" component={app} />
   </div>
 ))
 
@@ -51,6 +53,9 @@ function Header() {
       </li>
       <li>
         <Link to="/topics">Topics</Link>
+      </li>
+      <li>
+        <Link to="/todos">To Do's</Link>
       </li>
     </ul>
   )

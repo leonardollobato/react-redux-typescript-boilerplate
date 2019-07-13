@@ -1,7 +1,7 @@
 import { createAction } from 'redux-actions'
 import { ThunkAction, ThunkDispatch } from 'redux-thunk'
 import { AnyAction } from 'redux'
-import { TrainingModel } from 'app/models'
+import { ITraining } from 'app/models'
 
 export namespace TrainingActions {
   export enum Type {
@@ -11,12 +11,10 @@ export namespace TrainingActions {
     FETCH_TRAINING_FAILURE = 'FETCH_TRAINING_FAILURE'
   }
 
-  export const toggleFavoriteTraining = createAction<TrainingModel['id']>(
-    Type.TOGGLE_FAVORITE_TRAINING
-  )
+  export const toggleFavoriteTraining = createAction<ITraining['id']>(Type.TOGGLE_FAVORITE_TRAINING)
 
   export const fetchTrainingBegin = createAction(Type.FETCH_TRAINING_BEGIN)
-  export const fetchTrainingSuccess = createAction<TrainingModel[]>(Type.FETCH_TRAINING_SUCCESS)
+  export const fetchTrainingSuccess = createAction(Type.FETCH_TRAINING_SUCCESS)
   export const fetchTrainingFailure = createAction(Type.FETCH_TRAINING_FAILURE)
 
   export const fetchTrainings = (): ThunkAction<Promise<void>, {}, {}, AnyAction> => {

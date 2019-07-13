@@ -1,11 +1,18 @@
 import { handleActions } from 'redux-actions'
-import { RootState } from './state'
-import { TrainingActions } from 'app/actions/trainings'
-import { TrainingModel } from 'app/models'
+import { TrainingActions } from 'app/actions/TrainingActions'
+import { ITraining } from 'app/models'
 
-const initialState: RootState.TrainingState = []
+// Define the Training State
+export interface ITrainingState {
+  readonly trainings: ITraining[]
+}
 
-export const trainingReducer = handleActions<RootState.TrainingState, TrainingModel>(
+// Define the initial state
+const initialTrainingState: ITrainingState = {
+  trainings: []
+}
+
+export const trainingReducer = handleActions<ITrainingState, ITraining>(
   {
     [TrainingActions.Type.FETCH_TRAINING_BEGIN]: (state, action) => {
       return state
@@ -23,5 +30,5 @@ export const trainingReducer = handleActions<RootState.TrainingState, TrainingMo
       return state
     }
   },
-  initialState
+  initialTrainingState
 )

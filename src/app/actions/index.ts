@@ -1,2 +1,2 @@
-export * from './todos'
-export * from './trainings'
+export * from './TodoActions'
+export * from './TrainingActions'
